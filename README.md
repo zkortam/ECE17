@@ -1,3 +1,5 @@
+COURSE TAKEN FALL 2024 - UC SAN DIEGO - ELECTRICAL COMPUTER ENGINEERING 
+
 Course Overview
 ECE 17: Object-Oriented Programming – Design and Development with C++
 This course offers an extensive, advanced exploration of object-oriented programming (OOP) concepts, emphasizing design and development using the C++ programming language. With a focus on building efficient, scalable, and maintainable software systems, students will develop a strong foundation in both theoretical and practical aspects of OOP and data structures.
